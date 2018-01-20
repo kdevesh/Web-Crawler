@@ -1,0 +1,3 @@
+crawler:
+    numberOfLinks: 10
+    seedUrl: http://python.org
